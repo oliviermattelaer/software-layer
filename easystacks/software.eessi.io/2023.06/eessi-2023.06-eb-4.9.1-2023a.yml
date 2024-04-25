@@ -1,2 +1,5 @@
 easyconfigs:
   - ncdu-1.18-GCC-12.3.0.eb
+  - CREST-3.0-foss-2023a.eb:
+    options:
+      from-commit: babaaa4c1b133ef49a00ac1bfcd99eac9d7b373e 
